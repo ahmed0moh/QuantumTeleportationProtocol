@@ -54,50 +54,6 @@ You should see a printed result like:
 
 {'011': 1}
 
-And a histogram plot showing the output state.
-
-
----
-
-📊 Output Example
-
-The result will be a histogram of measurement results, similar to:
-
-
-
-> Source: Qiskit Documentation
-
-
-
-
----
-
-📂 Project Structure
-
-.
-├── teleportation.py       # Main code implementing teleportation
-├── README.md              # This file
-
-
----
-
-🎓 Learn More
-
-📘 Qiskit Tutorials
-
-🧪 Qiskit Textbook: Teleportation
-
-🎥 Intro to Quantum Teleportation Video (CC0)
-
-
-
----
-
-🪪 License
-
-This project is provided for educational purposes under the MIT License.
-
-
 ---
 
 🙋‍♂ Author
