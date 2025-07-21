@@ -15,9 +15,6 @@ It is not science fiction! It relies on quantum entanglement and measurement.
 > - [IBM Quantum – Teleportation Explained](https://quantum-computing.ibm.com/docs/learn/quantum-teleportation)  
 > - [Wikipedia - Quantum Teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation)
 
-![Quantum Teleportation Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Quantum_teleportation.svg/800px-Quantum_teleportation.svg.png)
-> Image Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Quantum_teleportation.svg)
-
 ---
 
 ## 📜 Code Overview
